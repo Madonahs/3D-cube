@@ -1,5 +1,5 @@
 
-# Creating 3D Graphics in C Language.
+# Sample 3D Graphics in C Language.
 
 ### Operating System used
 **Linux**
