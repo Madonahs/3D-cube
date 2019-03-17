@@ -3,6 +3,7 @@
  *
  *  Created on: Mar 17, 2019
  *      Author: madona
+ *
  */
 
 #include <stdio.h>
@@ -135,3 +136,9 @@ int main(int argc, char *agrv[])
 
     XMapWindow(dpy,win);
 }
+
+/***
+ * Display *dpy;
+  XWindowAttributes winattr;
+   Window win;
+ */
