@@ -23,7 +23,7 @@ For windows OS you can look into their Graphics API in place of the
 
 
 ## Licence
-Here [MIT](https://github.com/Madonahs/3D-cube/blob/master/LICENSE.md)
+[MIT](https://github.com/Madonahs/3D-cube/blob/master/LICENSE.md)
 
 ### DEMO
 
